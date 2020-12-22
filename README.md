@@ -1,4 +1,4 @@
-# Desenvolvendo uma aplicação com C# usando DDD
+# Desenvolvendo uma aplicação com C# usando DDD - Decola Dev Avanade 2021
 
 Atividade para o Digital Innovation One.
 
